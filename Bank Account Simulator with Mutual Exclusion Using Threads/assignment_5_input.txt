@@ -1,0 +1,8 @@
+account1 balance 1000
+account2 balance 2000
+account3 balance 3000
+account4 balance 4000
+client1 deposit account2 1000
+client2 withdraw account1 300 deposit account4 200
+client3 deposit account3 500 withdraw account4 400 withdraw account1 100
+client4 withdraw account1 40000 withdraw account2 800
